@@ -1,0 +1,7 @@
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\bin\Debug\StarWars_HomeProject.exe.config
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\bin\Debug\StarWars_HomeProject.exe
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\bin\Debug\StarWars_HomeProject.pdb
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\obj\Debug\StarWars_HomeProject.csprojAssemblyReference.cache
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\obj\Debug\StarWars_HomeProject.csproj.CoreCompileInputs.cache
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\obj\Debug\StarWars_HomeProject.exe
+E:\Suli\!ÓE\2nd semester\swdd2-prog2\StarWars_HomeProject\StarWars_HomeProject\obj\Debug\StarWars_HomeProject.pdb
