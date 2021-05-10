@@ -2,7 +2,7 @@
 
 *Originally done between March 23,2021- April 22, 2021*
 
-Scenario: Darth Vader wants to improve his fleet, so he goes into the spaceship store to buy some ships.
+Scenario: Darth Vader wants to improve his fleet, so he goes into the spaceship store to buy some spaceships.
 
 So what he can do?
 1. He can choose of ships freely (so he can pick his favorite one) and buy it
