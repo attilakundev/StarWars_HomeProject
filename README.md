@@ -4,7 +4,7 @@
 
 Scenario: Darth Vader wants to improve his fleet, so he goes into the spaceship store to buy some spaceships.
 
-So what he can do?
+So what can he do?
 1. He can choose of ships freely (so he can pick his favorite one) and buy it
 2. He can delete one choosen ship from the cart OR empty his cart
 3. He can check the items in the cart
