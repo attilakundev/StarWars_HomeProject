@@ -1,5 +1,8 @@
 # Star Wars project
-Scenario: Vader wants to improve his fleet, so he goes into the spaceship store to buy some ships.
+
+*Originally done between March 23,2021- April 22, 2021*
+
+Scenario: Darth Vader wants to improve his fleet, so he goes into the spaceship store to buy some ships.
 
 So what he can do?
 1. He can choose of ships freely (so he can pick his favorite one) and buy it
@@ -9,3 +12,6 @@ So what he can do?
 5. Also he can check his current fleet
 
 If Vader bought the adequate ships, then if there are remaining ships in the store, he can't buy them, since he bought them all :)
+
+![Sample screenshot #1](https://raw.githubusercontent.com/attilakundev/StarWars_HomeProject/main/Sample%20screenshot.JPG)
+![Sample screenshot #2](https://raw.githubusercontent.com/attilakundev/StarWars_HomeProject/main/Sample%20screenshot2.JPG)
